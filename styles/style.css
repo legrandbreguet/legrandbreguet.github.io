@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/GBreguet_backgound.webp");
 	background-repeat: no-repeat;
     background-size: 100%;
 
@@ -21,7 +21,7 @@ img {
 }
 
 p {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'PitchSans', medium;
 	text-align: center;
 	color: #272727;
 }
